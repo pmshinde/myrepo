@@ -1,0 +1,21 @@
+43.205.136.175
+172.31.40.81
+192.18.2.0
+total 60
+-rw-r--r--  1 root root  129 Oct 18  2017 .tcshrc
+-rw-r--r--  1 root root  100 Oct 18  2017 .cshrc
+-rw-r--r--  1 root root  176 Oct 18  2017 .bashrc
+-rw-r--r--  1 root root  176 Oct 18  2017 .bash_profile
+-rw-r--r--  1 root root   18 Oct 18  2017 .bash_logout
+dr-xr-xr-x 18 root root  257 Aug 30 03:48 ..
+-rw-r--r--  1 root root  116 Aug 30 04:19 name.sh
+-rw-r--r--  1 root root   39 Aug 30 04:52 list.txt
+-rwxr-xr-x  1 root root  234 Sep  2 09:51 ping.sh
+-rwxr-xr-x  1 root root  168 Sep  2 09:57 site.sh
+-rwxr-xr-x  1 root root  285 Sep  2 10:18 install.sh
+drwxr-xr-x  7 root root  119 Sep  2 10:34 .git
+-rw-r--r--  1 root root  246 Sep  2 11:03 pass.sh
+drwx------  2 root root   61 Sep  4 06:44 .ssh
+-rw-------  1 root root 3472 Sep  4 06:59 .bash_history
+-rw-------  1 root root 8728 Sep 24 08:29 .viminfo
+dr-xr-x---  4 root root  246 Sep 24 08:29 .
